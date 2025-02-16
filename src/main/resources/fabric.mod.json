@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
+  "name": "Teeter Client",
   "id": "meteor-client",
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
     "MineGame159",
     "squidoodly",
-    "seasnail"
+    "seasnail",
+    "maxedout3665"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
@@ -51,8 +52,6 @@
     "optifabric": "*",
     "feather": "*",
     "origins": "*",
-    "wurst": "*",
-    "sodium": "<0.6.5",
-    "morechathistory": "*"
+    "wurst": "*"
   }
 }
