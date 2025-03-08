@@ -12,8 +12,8 @@
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
+    "issues": "https://github.com/Hellohke/teeter-client/issues",
+    "sources": "https://github.com/Hellohke/teeter-client",
     "discord": "https://meteorclient.com/discord"
   },
   "license": "GPL-3.0",
@@ -51,7 +51,6 @@
   "breaks": {
     "optifabric": "*",
     "feather": "*",
-    "origins": "*",
     "wurst": "*"
   }
 }
